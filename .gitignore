@@ -1,0 +1,22 @@
+# MkDocs build directory
+site/
+
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+pip_libs/
+
+# Mac OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temp files
+*.tmp
+*.log
+scratch/
+eurotrainee_texto_extraido.txt
+extracted_raw_text.txt
