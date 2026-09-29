@@ -1,7 +1,7 @@
 site_name: Portal Erasmus+ y Eurotrainee
 site_description: Repositorio documental y guía de gestión de programas de internacionalización educativa (GVA)
 site_author: Coordinación Erasmus
-site_url: ""
+site_url: "https://jmabadlopez.github.io/erasmus/"
 
 theme:
   name: material
