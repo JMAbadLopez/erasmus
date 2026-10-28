@@ -18,6 +18,20 @@ Repositorio documental en formato Markdown para la generación del portal web es
 - **Gestión y Coordinación de Centro:**
   - Listas de control (*checklists*) paso a paso para la gestión ágil de convocatorias.
   - Protocolo y modelos de difusión interna obligatoria en el claustro y departamentos didácticos.
+- **Panel de Control y Precalculador Presupuestario (`app/`):**
+  - Aplicación web independiente (`app/index.html`) para la coordinación Erasmus+ KA131-HED (**IES Camp de Morvedre - E10083960 / E VALENCI39**).
+  - Control de ejecución del proyecto `2025-1-ES01-KA131-HED-000337316` (Concedido vs. Declarado, regla del 70% de prefinanciación y límites de trasvase entre SMP y STA/STT).
+  - Precalculador/simulador en memoria con tablas SEPIE por grupo de país, banda de distancia, *Green Travel* y menores oportunidades.
+  - Planificador de la solicitud `2026` (`KA131-HED-06A0A73F`) y archivo de datos estático editable en `app/data/erasmus-data.js`.
+
+---
+
+## Uso del Panel de Control Presupuestario (`app/`)
+
+La aplicación es **100% autocontenida** (no requiere servidor ni compilación):
+
+1. Abre directamente el archivo `app/index.html` en cualquier navegador web (o sírvelo con `python3 -m http.server 8080` y entra en `http://localhost:8080/app/`).
+2. Para editar los datos permanentes en el repositorio, modifica `app/data/erasmus-data.js` o utiliza el botón **"Descargar `erasmus-data.js` actualizado"** en la pestaña 4 del panel tras realizar tus simulaciones en memoria.
 
 ---
 
