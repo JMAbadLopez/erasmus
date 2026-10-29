@@ -35,7 +35,6 @@ Este espacio centraliza la normativa oficial, convocatorias vigentes, guías pas
 === "Coordinación y Centro"
     Herramientas, actas de difusión, calendario de plazos y listas de verificación para la comisión de selección y el equipo de coordinación de internacionalización del centro.
 
-    - [Abrir Panel de Control y Precalculador de Presupuestos :material-calculator-variant:](panel/index.html)
     - [Ver Checklist de Convocatorias :material-arrow-right:](coordinacion/checklist-convocatorias.md)
     - [Protocolos de Difusión Interna :material-arrow-right:](coordinacion/difusion-interna.md)
 

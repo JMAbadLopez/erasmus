@@ -20,3 +20,6 @@ pip_libs/
 scratch/
 eurotrainee_texto_extraido.txt
 extracted_raw_text.txt
+
+# Panel de control presupuestario (uso exclusivamente local, no subir a GitHub)
+app/
